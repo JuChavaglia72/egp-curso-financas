@@ -23,6 +23,9 @@
             A cada tópico veremos um vídeo com o assunto. Ao final teremos algumas questões de 
             múltipla escolha para testar seus conhecimentos. Para atingirmos os nossos objetivos, 
             disponibilizamos: apostilas, textos, legislações, vídeos e exercicios de fixação. 
+
+            O curso não está finalizado: faltam os videos e algumas atualizações que faremos em breve.
                        
+
 
 
